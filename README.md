@@ -1,1 +1,4 @@
-# newly-repo
+# newly-
+print "hello world"
+
+
